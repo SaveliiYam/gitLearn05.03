@@ -19,3 +19,9 @@ func asd() {
 	fmt.Println(5 + 5)
 	fmt.Println(4 + 4)
 }
+
+type User struct {
+	Name     string
+	LastName string
+	Age      int
+}
