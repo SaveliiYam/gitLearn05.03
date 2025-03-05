@@ -7,5 +7,5 @@ func main() {
 }
 
 func asd() {
-	fmt.Println("Hello, World!")
+	fmt.Println("Привет мир")
 }
