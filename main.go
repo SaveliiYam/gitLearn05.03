@@ -16,5 +16,5 @@ func aPlusB() {
 }
 
 func asd() {
-	fmt.Println(3 + 3)
+	fmt.Println(5 + 5)
 }
