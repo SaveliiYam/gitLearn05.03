@@ -12,5 +12,5 @@ func qwerty() {
 }
 
 func aPlusB() {
-	fmt.Println(2 + 2)
+	fmt.Println(3 + 3)
 }
