@@ -18,3 +18,8 @@ func aPlusB() {
 func asd() {
 	fmt.Println(4 + 4)
 }
+
+type User struct {
+	Name string
+	Age  int
+}
