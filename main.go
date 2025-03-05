@@ -24,3 +24,10 @@ type User struct {
 	LastName string
 	Age      int
 }
+
+func (u *User) PrintInfo() {
+	fmt.Printf("Name: %s %s, Age: %d\n", u.Name, u.LastName, u.Age)
+}
+func (u User) Greet() {
+	fmt.Printf("Hello, my name is %s %s! I'm %d years old.\n", u.Name, u.LastName, u.Age)
+}
