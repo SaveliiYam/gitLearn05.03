@@ -3,9 +3,9 @@ package main
 import "fmt"
 
 func main() {
-	asd()
+	qwerty()
 }
 
-func asd() {
-	fmt.Println("Привет мир")
+func qwerty() {
+	fmt.Println("Hello, world!")
 }
