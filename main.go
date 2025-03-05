@@ -20,6 +20,7 @@ func asd() {
 }
 
 type User struct {
-	Name string
-	Age  int
+	Name     string
+	LastName string
+	Age      int
 }
